@@ -1,49 +1,34 @@
-## Hi there 👋 I'm Muhammad Shahid
+# Welcome to My Repository
 
-**Marie Skłodowska-Curie Postdoctoral Fellow | Computer Vision & AI Researcher**
+Hi! I'm **Shahid**, a Machine Learning Developer and Software Engineer.
 
-I develop next-generation vision-based frameworks for objective movement analysis using markerless motion capture technology, with applications in biomechanics, sports injury assessment, and clinical gait analysis.
+## 🚀 About This Repository
 
-### 🚀 What I Do
+This repository serves as a hub for my projects and portfolio. You can explore my work and contributions here.
 
-- **Markerless Motion Capture**: Single and multi-camera mobile phone systems for accurate biomechanical measurement
-- **Clinical Assessment**: Objective movement analysis for neuromuscular diseases, rehabilitation, and patient care
-- **Sports Analytics**: Athlete performance analysis, injury prevention, and movement quality assessment
-- **Accessible Technology**: Making laboratory-grade motion analysis available through everyday mobile devices
+## 📚 What You'll Find
 
-### 🔬 Research Areas
+- Personal projects
+- Code samples
+- Learning resources
+- Contributions to open source
 
-- Computer Vision & Pose Estimation
-- Machine Learning & Deep Learning for Motion Analysis
-- Biomechanics & Gait Analysis
-- Rehabilitation Technologies
-- Wearable Sensor Integration
-- Medical Imaging & Clinical Applications
-- Embedded Systems & Real-time Processing
+## 🔗 Quick Links
 
-### 💡 Current Focus
+- **GitHub Profile:** [shahidmlvision](https://github.com/shahidmlvision)
+- **Portfolio:** [Portfolio Site](https://shahidmlvision.github.io)
 
-- Vision-based frameworks for objective movement analysis in sports and clinical settings
-- Markerless motion capture using mobile phone systems
-- Effective acquisition protocols for real-world biomechanical assessment
-- Patient-centred technologies for motor assessment and rehabilitation
+## 💼 Skills & Interests
 
-### 🎯 Vision
+- Machine Learning & AI
+- Software Development
+- Python, JavaScript, and more
+- Web Development
 
-To bridge the gap between laboratory-grade motion analysis and practical field deployment, making advanced movement assessment accessible through everyday mobile devices for clinicians, coaches, athletes, and patients worldwide.
+## 📞 Get in Touch
 
-### 📚 Learn More
-
-Explore my **[Full Research Portfolio](/)** for detailed information about my expertise, research areas, and technical capabilities.
-
-### 📞 Get in Touch
-
-- **GitHub**: [@shahidmlvision](https://github.com/shahidmlvision)
-- **LinkedIn**: [Muhammad Shahid](https://www.linkedin.com/in/muhammad-shahid-65a33314/)
-- **Email**: Available on LinkedIn or GitHub
-
-Open to collaboration on markerless motion capture, clinical assessment systems, sports analytics, and computer vision in healthcare!
+Feel free to connect with me on GitHub or explore my projects. I'm always open to collaboration and learning from the community!
 
 ---
 
-**"Technology should serve humanity. Let's make advanced biomechanical assessment accessible to everyone."**
+*Last Updated: 2026*
